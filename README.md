@@ -45,6 +45,13 @@ git push -D origin main
 # Unit Testing
 + https://www.clariontech.com/blog/why-should-you-use-xunit-a-unit-testing-framework-for-.net
 
+# CI/CD
++ Cake (C# Make) is a cross platform build automation system
++ https://cakebuild.net/
++ https://github.com/cake-build/cake
++ https://github.com/cake-contrib/cake-dotnet-vulnerability-scanner/
++ https://patriksvensson.se/posts/2020/06/deploying-to-nuget-from-github-actions-using-cake-and-minver
+
 # References
 + https://stackify.com/net-ecosystem-demystified/
 + https://www.clariontech.com/blog/the-.net-revolution-an-overview-of-the-.net-framework-versions

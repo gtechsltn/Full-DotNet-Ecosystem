@@ -3,7 +3,7 @@
 + Visual Studio 2022
 + Visual Studio Code
 + .NET Standard 2.0 (Library)
-+ .NET Framework 4.8.1 (ASP.NET Website, ASP.NET MVC Application, ASP.NET Web API, Windows Service)
++ .NET Framework 4.8.1 (Outlook Add-Ins, ASP.NET Website, ASP.NET MVC Application, ASP.NET Web API, Windows Service)
 + .NET 8 (ASP.NET Core MVC Application, ASP.NET Core Web API, Blazor WA Standalone App, Worker Service)
 
 # Features

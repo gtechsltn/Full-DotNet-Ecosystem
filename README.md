@@ -39,15 +39,17 @@ git push -D origin main
 # References
 + https://stackify.com/net-ecosystem-demystified/
 + https://eluminoustechnologies.com/blog/net-8-features/
-+ https://blog-inedo-com.translate.goog/dotnet/library-migration-multitarget-vs-bridge/
-+ https://blog-inedo-com.translate.goog/dotnet/nuget-cicd/
-+ https://docs-inedo-com.translate.goog/docs/proget-packages-repackaging/
++ https://blog.inedo.com/dotnet/library-migration-multitarget-vs-bridge/
++ https://blog-inedo-com/dotnet/nuget-cicd/
++ https://docs.inedo.com/docs/proget-packages-repackaging
 
 ![image](https://github.com/gtechsltn/Full-DotNet-Ecosystem/assets/87538251/bacc0701-32b9-475c-a29c-cd595357be33)
 
-
-## .NET Standard 2.0
+## .NET Standard 2.0 (Full .NET Ecosystem)
 + https://learn.microsoft.com/en-us/dotnet/standard/net-standard?tabs=net-standard-2-0
++ https://learn.microsoft.com/en-us/dotnet/standard/library-guidance/cross-platform-targeting
++ https://learn.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
++ https://learn.microsoft.com/en-us/dotnet/standard/frameworks
 
 ## Windows Services
 + https://code-maze.com/aspnetcore-running-applications-as-windows-service/

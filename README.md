@@ -20,6 +20,8 @@
 + Multi-Dimensional Values
 + Cloud-Native Ecosystem
 + Blazor
++ Artificial Intelligence (AI)
++ Machine Learning (ML)
 
 ## Git Create New Branch: master
 ```
@@ -36,8 +38,16 @@ git branch -D main
 git push -d origin main
 git push -D origin main
 ```
+
+# Python and .NET
++ https://www.clariontech.com/blog/python-vs-net
+
+# Unit Testing
++ https://www.clariontech.com/blog/why-should-you-use-xunit-a-unit-testing-framework-for-.net
+
 # References
 + https://stackify.com/net-ecosystem-demystified/
++ https://www.clariontech.com/blog/the-.net-revolution-an-overview-of-the-.net-framework-versions
 + https://eluminoustechnologies.com/blog/net-8-features/
 + https://blog.inedo.com/dotnet/library-migration-multitarget-vs-bridge/
 + https://blog-inedo-com/dotnet/nuget-cicd/

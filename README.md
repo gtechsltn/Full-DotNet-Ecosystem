@@ -39,6 +39,19 @@ git push -d origin main
 git push -D origin main
 ```
 
+# Blazor (with Source Code Examples)
++ https://blazor.syncfusion.com/documentation/common/data-binding/bind-entity-framework
++ https://blazorhelpwebsite.com/
++ https://github.com/ADefWebserver/Blazor-Blogs
++ http://www.developerslearnit.com/2022/07/how-to-encrypt-decrypt-connection-strings-in-asp-net-core-6-0.html
++ https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets
+
+```
+<connectionStrings>
+    <add name="DefaultConnection" connectionString="Data Source=localhost;Initial Catalog=mssql;User ID=username;Password=password;Encrypt=true;TrustServerCertificate=true;" providerName="System.Data.SqlClient"/>
+</connectionStrings>
+```
+
 # Python and .NET
 + https://www.clariontech.com/blog/python-vs-net
 

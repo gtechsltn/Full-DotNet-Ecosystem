@@ -46,6 +46,8 @@ git push -D origin main
 + http://www.developerslearnit.com/2022/07/how-to-encrypt-decrypt-connection-strings-in-asp-net-core-6-0.html
 + https://learn.microsoft.com/en-us/aspnet/core/security/app-secrets
 
+You can safely trust the server certificate by adding **TrustServerCertificate=True** OR **Encrypt=False** in the database ConnectionString to wave such issue or contact your DB server provider to import a valid certificate to their DB server.
+
 ```
 <connectionStrings>
     <add name="DefaultConnection" connectionString="Data Source=localhost;Initial Catalog=mssql;User ID=username;Password=password;Encrypt=true;TrustServerCertificate=true;" providerName="System.Data.SqlClient"/>

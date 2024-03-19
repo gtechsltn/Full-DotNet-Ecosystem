@@ -31,13 +31,13 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ts", "ts\", "{34988323-2BF8
 		SlnRelativePath = "ts\"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationASPNETCoreMVC", "WebApplicationASPNETCoreMVC\WebApplicationASPNETCoreMVC.csproj", "{8FC5F398-E245-4425-B235-02B99E050E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationASPNETCoreMVC", "WebApplicationASPNETCoreMVC\WebApplicationASPNETCoreMVC.csproj", "{8FC5F398-E245-4425-B235-02B99E050E6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationASPNETMVC", "WebApplicationASPNETMVC\WebApplicationASPNETMVC.csproj", "{560F2186-3F9F-49E3-BD86-79E964FBC604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWAStandaloneApp", "BlazorWAStandaloneApp\BlazorWAStandaloneApp.csproj", "{A4B26B1B-E44C-4D62-AFA1-C46813056EEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWAStandaloneApp", "BlazorWAStandaloneApp\BlazorWAStandaloneApp.csproj", "{A4B26B1B-E44C-4D62-AFA1-C46813056EEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceNC8", "WorkerServiceNC8\WorkerServiceNC8.csproj", "{EBA6A96D-1E78-4864-9E37-98C6F7F0400F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerServiceNC8", "WorkerServiceNC8\WorkerServiceNC8.csproj", "{EBA6A96D-1E78-4864-9E37-98C6F7F0400F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServiceNF481", "WindowsServiceNF481\WindowsServiceNF481.csproj", "{A975D4D2-39BD-4F0D-AD9B-3B9D74112534}"
 EndProject
